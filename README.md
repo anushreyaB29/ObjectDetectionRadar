@@ -10,7 +10,7 @@ An Arduino-based Object Detection Radar system that uses an HC-SR04 ultrasonic s
 ### Radar Output
 ![Radar Output](images/radar_demo.jpg)
 
-##Project Demo Link url - https://drive.google.com/file/d/1vDYkhH4nerfK0EbhKTUm2ArJFqTf_yxq/view?usp=drivesdk
+## Project Demo Link url - https://drive.google.com/file/d/1vDYkhH4nerfK0EbhKTUm2ArJFqTf_yxq/view?usp=drivesdk
 
 ## Features
 

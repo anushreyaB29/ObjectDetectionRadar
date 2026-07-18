@@ -24,7 +24,6 @@ void setup() {
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
   for(int angle = 0; angle <= 140; ++angle){
     myServo.write(angle);
     

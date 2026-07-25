@@ -69,11 +69,6 @@ Object-Detection-Radar/
 - Smart Navigation
 - Educational Projects
 
-## Contributors
-
-- Anushreya Bhainsora
-- Neelansh Goyal
-
 ## License
 
 This project is intended for educational and learning purposes.
